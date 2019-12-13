@@ -1,6 +1,4 @@
-####- Extension　
-
-```javascript
+```
 extension String {
     var youtubeID: String? {
         if count == 11 {
